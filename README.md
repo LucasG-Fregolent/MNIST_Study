@@ -8,7 +8,7 @@ While it's widely assumed that Convolutional Neural Networks, due to their trans
 # Methodology
 The study proceeds with the following steps:
 
--> Dataset Preparation: The MNIST dataset, comprising 60,000 training images and 10,000 testing images of handwritten digits, is used for training and evaluation.
+### Dataset Preparation: The MNIST dataset, comprising 60,000 training images and 10,000 testing images of handwritten digits, is used for training and evaluation.
 
 -> Neural Network Architectures:
 
