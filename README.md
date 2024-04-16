@@ -8,15 +8,15 @@ While it's widely assumed that Convolutional Neural Networks, due to their trans
 # Methodology
 The study proceeds with the following steps:
 
-## Dataset Preparation: The MNIST dataset, comprising 60,000 training images and 10,000 testing images of handwritten digits, is used for training and evaluation.
+-> Dataset Preparation: The MNIST dataset, comprising 60,000 training images and 10,000 testing images of handwritten digits, is used for training and evaluation.
 
-## Neural Network Architectures:
+-> Neural Network Architectures:
 
 * Dense Neural Network (DNN): A traditional fully connected neural network architecture.
 * Convolutional Neural Network (CNN): A specialized neural network architecture for image processing tasks, leveraging convolutional layers.
 
-## Model Training: Both neural network architectures are trained on the MNIST dataset using appropriate regularization techniques to prevent overfitting. Also a custom implementation of a K-Fold Cross Validation algorithm were used.
+-> Model Training: Both neural network architectures are trained on the MNIST dataset using appropriate regularization techniques to prevent overfitting. Also a custom implementation of a K-Fold Cross Validation algorithm were used.
 
-## Evaluation: The trained models are evaluated on a separate test set to measure their performance in digit recognition accuracy.
+-> Evaluation: The trained models are evaluated on a separate test set to measure their performance in digit recognition accuracy.
 
 Through this study, we aim to gain insights into the comparative effectiveness of different neural network architectures on the MNIST dataset. While the Convolutional Neural Network architecture is expected to excel due to its inherent properties, the results may reveal nuanced performance differences and provide valuable insights.
